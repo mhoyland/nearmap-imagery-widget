@@ -1,0 +1,12 @@
+{
+  "apiKey": "",
+  "tileUrl": "https://api.nearmap.com/tiles/v3",
+  "coverageUrl": "https://api.nearmap.com/coverage/v2/coord",
+  "tileType": "Vert",
+  "coverageZoom": 14,
+  "maxZoom": 24,
+  "opacity": 1,
+  "activeOnLoad": false,
+  "allowCompare": true,
+  "hideWhenClosed": true
+}

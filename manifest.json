@@ -1,0 +1,24 @@
+{
+  "name": "nearmap-imagery",
+  "label": "Nearmap Imagery",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "Custom Widget",
+  "license": "MIT",
+  "description": "Show Nearmap aerial imagery on a map, choose from the capture dates at the map centre, and swipe between two dates. Inspired by the BGT Devhub / Esri Australia Nearmap widget.",
+  "defaultSize": {
+    "width": 300,
+    "height": 560
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "settingDependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ]
+}
