@@ -2,7 +2,7 @@
   "name": "nearmap-imagery",
   "label": "Nearmap Imagery",
   "type": "widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exbVersion": "1.21.0",
   "author": "Custom Widget",
   "license": "MIT",

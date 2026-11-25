@@ -21,6 +21,8 @@ export const widgetStyle = (dark: boolean) => css`
   flex-direction: column;
   overflow: hidden;
   font-size: 0.8125rem;
+  /* Set explicitly: templates such as Tab give the page white text for their coloured background. */
+  color: var(--sys-color-surface-paper-text);
 
   .nm-num {
     font-variant-numeric: tabular-nums;
